@@ -1,0 +1,19 @@
+{
+  "name": "lmify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lmify": "^0.3.0",
+    "lodash": "^4.17.21",
+    "mlly": "^1.1.0",
+    "pathe": "^1.1.0"
+  }
+}
